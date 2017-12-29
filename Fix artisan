@@ -1,0 +1,1 @@
+if (isset($argv[1]) && $argv[1] === '-V') { die('Symfony version 3.0.0'); };

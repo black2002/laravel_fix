@@ -1,0 +1,8 @@
+
+npm run dev
+npm i gulp --save-dev
+npm i gulp sass --save-dev
+
+
+Проверка
+npm ls --depth=0
